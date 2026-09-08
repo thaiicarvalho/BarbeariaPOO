@@ -1,0 +1,25 @@
+--no-fonts
+-classpath
+'C:/Users/thais/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Barbearia 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Barbearia 1.0-SNAPSHOT API'

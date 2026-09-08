@@ -1,0 +1,93 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/thais/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'Barbearia 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Barbearia 1.0-SNAPSHOT API'
+Barbearia
+Comparators
+Controller
+DAO
+Enums
+Model
+Testes
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Barbearia/Barbearia.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Comparators/ComparatorAgendamento.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Comparators/ComparatorCliente.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Comparators/ComparatorDeStrings.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Comparators/ComparatorID.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarAgendamento.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarAssociacoes.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarBalanco.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarCliente.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarEstoque.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarExtrato.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarFuncionario.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarRelatorioDeVenda.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/GerenciarServico.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Controller/SistemaBarbearia.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/AgendamentoDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/AgendamentoSecundarioDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/BalancoDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/ClienteDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/EstoqueDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/ExtratoDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/FuncionarioDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/LocalDateAdapter.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/LocalDateTimeAdapter.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/RelatorioDeVendaDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/DAO/ServicoDAO.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Enums/Cargo.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Enums/Estado.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Enums/Status.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Enums/StatusAgendamento.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Enums/StatusRDV.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Agendamento.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Balanco.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Cliente.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Estacoes.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Extrato.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Funcionario.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Pessoa.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Produto.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/RelatorioDeVenda.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Model/Servico.java'
+'C:/Users/thais/Downloads/Thais_Carvalho_ProjetoPOO/Barbearia/Barbearia/src/main/java/Testes/Testes.java'
+C:\Users\thais\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1763184207459
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\src\main\java = 1763345626112
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\allclasses-index.html = 1763346623499
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\allpackages-index.html = 1763346623500
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\element-list = 1763346623338
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\help-doc.html = 1763346623529
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\index-all.html = 1763346623522
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\index.html = 1763346623478
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\member-search-index.js = 1763346623503
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\module-search-index.js = 1763346623501
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\overview-summary.html = 1763346623526
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\overview-tree.html = 1763346623475
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\package-search-index.js = 1763346623502
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\search.html = 1763346623524
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\tag-search-index.js = 1763346623504
+C:\Users\thais\Downloads\Thais_Carvalho_ProjetoPOO\Barbearia\Barbearia\target\site\apidocs\type-search-index.js = 1763346623502
